@@ -32,13 +32,31 @@ function App() {
       <main>
 
       <div className="date-box">
-      <div>
+      
         {daybuilder(new Date())}
         {solardatebuilder(new Date())}
+        <div className="date">{dateBuilder(new Date())}</div>
         </div>
-     <div className="date">{dateBuilder(new Date())}</div>
+        <div className="update">
+       آخرین بروز رسانی نرخ ها 
+10:22
      </div>
-      </main>
+      <div className="currency">
+<p>rdutyguoj</p>
+      </div>
+      <div className="currency">
+        
+      </div>
+      <div className="currency">
+        
+      </div>
+      <div className="currency">
+        
+      </div>
+      <div className="currency">
+        
+      </div>
+      </main>  
     </div>
   );
 }
