@@ -42,6 +42,7 @@ main {
 }
 .currency{
   width: 18%;
+  max-width: 15%;
   margin: 10px 10px 75px;
   display: block;
   padding: 10px  10px;
