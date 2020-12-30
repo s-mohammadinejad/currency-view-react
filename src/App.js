@@ -90,6 +90,16 @@ function App() {
        <p>123456</p>
        <p>123456</p>
      </div>
+     <div className="currency">
+            <p>وون کره جنوبی</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
+     <div className="currency">
+            <p>روبل روسیه</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
       </main>  
     </div>
   );
