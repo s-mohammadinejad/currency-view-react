@@ -38,24 +38,58 @@ function App() {
         <div className="date">{dateBuilder(new Date())}</div>
         </div>
         <div className="update">
-       آخرین بروز رسانی نرخ ها 
-10:22
+           آخرین بروز رسانی نرخ ها 
+         10:22
+          </div>
+            <div className="currency">
+            <p>دلار</p>
+       <p>123456</p>
+       <p>123456</p>
      </div>
-      <div className="currency">
-<p>rdutyguoj</p>
-      </div>
-      <div className="currency">
-        
-      </div>
-      <div className="currency">
-        
-      </div>
-      <div className="currency">
-        
-      </div>
-      <div className="currency">
-        
-      </div>
+     <div className="currency">
+            <p>یورو</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
+     <div className="currency">
+            <p>پوند انگلیس</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
+     <div className="currency">
+            <p>فرانک سوئیس</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
+     <div className="currency">
+            <p>درهم امارات</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div><div className="currency">
+            <p> روپیه هند</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div><div className="currency">
+            <p>لیر ترکیه</p>
+       <p>123456</p>
+       <p>123456</p>
+      
+     </div>
+     <div className="currency">
+            <p> یوان چین</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
+     <div className="currency">
+            <p>وون کره جنوبی</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
+     <div className="currency">
+            <p>روبل روسیه</p>
+       <p>123456</p>
+       <p>123456</p>
+     </div>
       </main>  
     </div>
   );
